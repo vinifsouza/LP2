@@ -1,0 +1,12 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\bin\Debug\PAluno.exe.config
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\bin\Debug\PAluno.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\bin\Debug\PAluno.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.frmPrincipal.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.Properties.Resources.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.frmCidade.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\projetofinal\PAluno\PAluno\obj\Debug\PAluno.frmAluno.resources
